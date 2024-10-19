@@ -1,2 +1,13 @@
-# neural-networks-labwork
-Lab work on neural networks covering the topics of Feedforward Networks, Backpropagation, Data Augmentation, Keras Tuner, CNNs, RNNs, and LLMs.
+# Neural Networks Lab Work
+
+This repository contains my lab work and projects from a neural networks class, covering essential topics in deep learning. 
+
+## Topics Covered
+
+- **Feedforward Neural Networks**
+- **Backpropagation**
+- **Data Augmentation**
+- **Keras Tuner**
+- **Convolutional Neural Networks (CNNs)**
+- **Recurrent Neural Networks (RNNs)**
+- **Large Language Models (LLMs)**
