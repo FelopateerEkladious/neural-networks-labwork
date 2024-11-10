@@ -1,6 +1,6 @@
 # Neural Networks Lab Work
 
-This repository contains my lab work and projects from a neural networks class, covering essential topics in deep learning. 
+This repository contains my lab work and neural networks class projects, covering essential deep learning topics. 
 
 ## Topics Covered
 
